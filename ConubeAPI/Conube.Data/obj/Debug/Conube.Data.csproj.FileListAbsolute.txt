@@ -1,0 +1,4 @@
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Data\bin\Debug\Conube.Data.dll
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Data\bin\Debug\Conube.Data.pdb
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Data\obj\Debug\Conube.Data.dll
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Data\obj\Debug\Conube.Data.pdb

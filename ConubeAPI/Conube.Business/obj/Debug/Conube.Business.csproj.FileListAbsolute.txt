@@ -1,0 +1,7 @@
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\bin\Debug\Conube.Business.dll
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\bin\Debug\Conube.Business.pdb
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\bin\Debug\Conube.Model.dll
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\bin\Debug\Conube.Model.pdb
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\obj\Debug\Conube.Business.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\obj\Debug\Conube.Business.dll
+\\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Business\obj\Debug\Conube.Business.pdb
