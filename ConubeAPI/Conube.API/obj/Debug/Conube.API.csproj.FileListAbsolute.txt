@@ -19,3 +19,47 @@
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.API\bin\Conube.Business.pdb
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.API\bin\Conube.Model.pdb
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.API\bin\System.Web.Http.Cors.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.API.dll.config
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.API.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.API.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.Business.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Newtonsoft.Json.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Net.Http.Formatting.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Cors.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.Cors.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.WebHost.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.Business.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Newtonsoft.Json.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Net.Http.Formatting.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.Cors.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Http.WebHost.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\obj\Debug\Conube.API.csprojResolveAssemblyReference.cache
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\obj\Debug\Conube.API.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\obj\Debug\Conube.API.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.Common.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.Mvc.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.WebApi.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\WebActivatorEx.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.Common.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.Mvc.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\Ninject.Web.WebApi.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Helpers.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Mvc.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Razor.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Helpers.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Mvc.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.Razor.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.API\bin\WebApiContrib.IoC.Ninject.dll

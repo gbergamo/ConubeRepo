@@ -3,3 +3,8 @@
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.csprojResolveAssemblyReference.cache
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.dll
 \\psf\home\Documents\Visual Studio 2012\Projects\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.csprojResolveAssemblyReference.cache
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\obj\Debug\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\bin\Debug\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\bin\Debug\Conube.Model.pdb

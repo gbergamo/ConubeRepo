@@ -1,0 +1,7 @@
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\bin\Release\Conube.Business.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\bin\Release\Conube.Business.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\bin\Release\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\bin\Release\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\obj\Release\Conube.Business.csprojResolveAssemblyReference.cache
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\obj\Release\Conube.Business.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Business\obj\Release\Conube.Business.pdb

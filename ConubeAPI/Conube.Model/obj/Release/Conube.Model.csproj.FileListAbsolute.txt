@@ -1,0 +1,4 @@
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\bin\Release\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\bin\Release\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\obj\Release\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.Model\obj\Release\Conube.Model.pdb

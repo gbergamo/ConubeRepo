@@ -1,0 +1,10 @@
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.UnitTest.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.UnitTest.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.Business.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.Model.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.Business.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.Model.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\obj\Debug\Conube.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\obj\Debug\Conube.UnitTest.dll
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\obj\Debug\Conube.UnitTest.pdb
+C:\Users\gustavobergamo\Documents\GitHub\ConubeRepo\ConubeAPI\Conube.UnitTest\bin\Debug\Conube.UnitTest.dll.config

@@ -40,9 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Invoice.cs" />
+    <Compile Include="CONFINSService.cs" />
+    <Compile Include="CSLLService.cs" />
+    <Compile Include="Interfaces\ICSLLervice.cs" />
+    <Compile Include="Interfaces\ICOFINSService.cs" />
+    <Compile Include="Interfaces\IIRService.cs" />
+    <Compile Include="Interfaces\IPISService.cs" />
+    <Compile Include="IRService.cs" />
+    <Compile Include="NFe.cs" />
+    <Compile Include="PISService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Taxes.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

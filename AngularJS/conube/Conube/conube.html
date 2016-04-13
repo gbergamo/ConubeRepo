@@ -1,0 +1,276 @@
+<div ng-controller="ConubeCtrl">
+  <div class="row">
+    <div class="col-md-4 col-xs-12">
+      <div class="row">
+        <div class="col-xs-12">
+          <h3 class="text-center">Story 01</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <h6>
+            <p>
+              AS a company that provides services.
+            </p>
+            <p>
+              I want to know the total amount of the following withhold taxes: IR, PIS, COFINS, CSLL.
+            </p>
+            <p>
+              That way I know how much money will be discounted when a customer pays my invoice.
+            </p>
+          </h6>
+        </div>
+      </div>
+      <hr/>
+      <form ng-submit="storyonesubmit()">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story1Anount" placeholder="Invoice amount" ng-model="s1.invoiceValue">
+                </div>
+              </div>
+              <div class="col-xs-4">
+                <input type="submit" value="Send" class="btn btn-primary"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+      <div ng-show="responseS1.withhold > 0">
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            IR:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS1.irValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            COFINS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS1.cofinsValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            CSLL:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS1.csllValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            PIS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS1.pisValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            TOTAL WITHHELD:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS1.withhold | number}}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-xs-12">
+      <div class="row">
+        <div class="col-xs-12">
+          <h3 class="text-center">Story 02</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <h6>
+            <p>
+              AS a system administrator (accountant).
+            </p>
+            <p>
+              I want to be able to change the withhold tax rates for IR, PIS, COFINS, CSLL.
+            </p>
+            <p>
+              That way I don't need to change the code when the tax rate changes.
+            </p>
+          </h6>
+        </div>
+      </div>
+      <hr/>
+      <form ng-submit="storytwosubmit()">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story2IR" placeholder="IR" ng-model="s2.ir">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story2PIS" placeholder="PIS" ng-model="s2.pis">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story2COFINS" placeholder="COFINS" ng-model="s2.cofins">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story2CSLL" placeholder="CSLL" ng-model="s2.csll">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story2Amount" placeholder="Invoice amount" ng-model="s2.invoiceValue">
+                </div>
+              </div>
+              <div class="col-xs-4">
+                <input type="submit" value="Send" class="btn btn-primary"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+      <div ng-show="responseS2.withhold > 0">
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            IR:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS2.irValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            COFINS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS2.cofinsValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            CSLL:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS2.csllValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            PIS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS2.pisValue | number}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            TOTAL WITHHELD:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS2.withhold | number}}
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col-md-4 col-xs-12">
+      <div class="row">
+        <div class="col-xs-12">
+          <h3 class="text-center">Story 03</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <h6>
+            <p>
+              AS a company that provide services.
+            </p>
+            <p>
+              I want to see the amounts withheld rounded correctly to 2 decimal places.
+            </p>
+            <p>
+              That way I will not be confused about how much will be discounted from my payment.
+            </p>
+          </h6>
+        </div>
+      </div>
+      <hr/>
+      <form ng-submit="storythreesubmit()">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="row">
+              <div class="col-xs-8">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="story1Anount" placeholder="Invoice amount" ng-model="s3.invoiceValue">
+                </div>
+              </div>
+              <div class="col-xs-4">
+                <input type="submit" value="Send" class="btn btn-primary"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+      <div ng-show="responseS3.withhold > 0">
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            IR:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS3.irValue | number:2}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            COFINS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS3.cofinsValue | number:2}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            CSLL:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS3.csllValue | number:2}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            PIS:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS3.pisValue | number:2}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 text-right">
+            TOTAL WITHHELD:
+          </div>
+          <div class="col-xs-6 text-left">
+            {{responseS3.withhold | number:2}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
